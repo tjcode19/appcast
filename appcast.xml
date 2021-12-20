@@ -3,16 +3,14 @@
     <channel>
         <title>Chanelle MFB App- Appcast</title>
         <item>
-            <title>Version 2.1.1</title>
+            <title>Version 2.1.2</title>
             <description>
                 <![CDATA[
-                    Account Opening
-                    Transafer to other Africa Countries
                     Bugs Fixed
                     ]]>
                 </description>
-            <pubDate>Thur, 14 Oct 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.mobinet.chanellemfb" sparkle:version="2.1.1" sparkle:os="android" sparkle:minAppVersion="2.1.0" />
+            <pubDate>Mon, 20 Dec 2021 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.mobinet.chanellemfb" sparkle:version="2.1.2" sparkle:os="android" sparkle:minAppVersion="2.1.0" />
             <sparkle:minimumSystemVersion>2.1.0</sparkle:minimumSystemVersion>
         </item>
         
