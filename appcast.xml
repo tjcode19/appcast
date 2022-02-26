@@ -3,14 +3,14 @@
     <channel>
         <title>Chanelle MFB App- Appcast</title>
         <item>
-            <title>Version 2.1.7</title>
+            <title>Version 2.1.6</title>
             <description>
                 <![CDATA[
                     Bugs Fixed
                     ]]>
                 </description>
             <pubDate>Sat, 26 Feb 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.mobinet.chanellemfb" sparkle:version="2.1.7" sparkle:os="android" sparkle:minAppVersion="2.1.2" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.mobinet.chanellemfb" sparkle:version="2.1.6" sparkle:os="android" sparkle:minAppVersion="2.1.2" />
             <sparkle:minimumSystemVersion>2.1.4</sparkle:minimumSystemVersion>
         </item>
         
