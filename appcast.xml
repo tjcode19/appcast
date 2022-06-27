@@ -26,5 +26,18 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.mobinet.chanellemfb" sparkle:version="2.1.13" sparkle:os="ios" sparkle:minAppVersion="2.1.12" />
             <sparkle:minimumSystemVersion>2.1.12</sparkle:minimumSystemVersion>
         </item>
+        
+        <item>
+            <title>Version 1.0.1</title>
+            <description>
+                <![CDATA[
+                    Bugs Fixed
+                    App Optimisation
+                    ]]>
+                </description>
+            <pubDate>Mon, 27 June 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.mobinet.sunbeammfb" sparkle:version="1.0.1" sparkle:os="android" sparkle:minAppVersion="1.0.0" />
+            <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+        </item>
     </channel>
 </rss>
